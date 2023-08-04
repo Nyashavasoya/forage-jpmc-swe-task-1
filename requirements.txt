@@ -1,1 +1,5 @@
+# After python is intalled, one should have access to pip
+# check "pip --version" for pip version
+# Now, you can use pip to install the python-dateutil library with version 2.8.2. Run the following command:"pip install python-dateutil==2.8.2"
+
 python-dateutil==2.8.2
